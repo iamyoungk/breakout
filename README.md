@@ -6,5 +6,6 @@
 
 
 ## Ingame Screenshot
-<img width="1512" alt="Screenshot 2023-05-11 at 2 06 32 AM" src="https://github.com/iamyoungk/breakout/assets/102649466/cfd8acd2-6977-4ba4-97d8-2c73d0251e39">
+<img width="1017" alt="Breakout-screenshot-1" src="https://github.com/iamyoungk/breakout/assets/102649466/a898b923-a131-4095-a1b9-7776efc2a79a">
+
 

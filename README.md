@@ -1,7 +1,7 @@
 # Breakout
 This is a simple Breakout game. Enjoy!
 
-## Controls:
+## Controls
 - left/right - move left/right
 - space - fire bullets
 
